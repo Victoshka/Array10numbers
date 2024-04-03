@@ -28,5 +28,6 @@ class ArrayDemo {
         System.out.println("Element at index 9: "
                 + anArray[9]);
 
+
     }
 }
